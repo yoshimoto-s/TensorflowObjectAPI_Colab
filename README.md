@@ -1,1 +1,3 @@
 # TensorflowObjectAPI_Colab
+
+gistでよかったんだけど、バージョン管理のしやすさ的な問題でこっちにする
