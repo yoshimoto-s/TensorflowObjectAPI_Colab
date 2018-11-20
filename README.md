@@ -2,6 +2,16 @@
 
 gistでよかったんだけど、バージョン管理のしやすさ的な問題でこっちにする
 
+## 機能
+[Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+をColaboratory上で学習の実行やモニタリングなどをできるようにした
+
+データはローカルで[LabelImage](https://github.com/tzutalin/labelImg)を使って、作成したものと、[LabelBox](https://app.labelbox.com)を使って作成したものに現状では対応している
+
+学習の結果はGoogleドライブに出力することが可能
+
+## Appendix
+
 せっかくだからColaboratory上で使えるTipsもちょこっと書いておく
 
 ### Tensorboardを起動
